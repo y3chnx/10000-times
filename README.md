@@ -7,3 +7,6 @@ This project is just printing "Hello, World" 10,000 times without any loops.
 这个项目只是打印 10000 次 "Hello, World"，没有任何循环。
 
 Этот проект просто печатает "Hello, World" 10 000 раз без каких-либо циклов.
+
+
+<C, Java Script, Python>
