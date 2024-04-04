@@ -9,4 +9,4 @@ This project is just printing "Hello, World" 10,000 times without any loops.
 Этот проект просто печатает "Hello, World" 10 000 раз без каких-либо циклов.
 
 
-<C, Java Script, Python>
+<C, Java Script, Python, HTML>
